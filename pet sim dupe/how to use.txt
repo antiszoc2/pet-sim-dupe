@@ -1,0 +1,7 @@
+Easy way to use pet simulator x duping!
+
+1. run "Duping" file
+2. go to trade with someone who use it too
+3. place anything, and press "dupe" in the file
+4. wait until you get "error" message in game
+Done
